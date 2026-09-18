@@ -13,7 +13,7 @@ const Navbar = () => {
 
   // Replace this with your real WhatsApp number.
   // Use country code without + or spaces.
-  const whatsappNumber = "919876543210";
+  const whatsappNumber = "919403033133";
 
   useEffect(() => {
     const handleScroll = () => {
